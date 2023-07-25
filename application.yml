@@ -7,5 +7,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 
-message: inside config file
+welcome:
+  message: inside config file
       
